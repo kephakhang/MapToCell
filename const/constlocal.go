@@ -12,14 +12,14 @@ const (
 	//MYSQLDB   = "msg_dev"
 
 	// local
-	//MYSQLUSER = "root"
-	//MYSQLPASS = ""
-	//MYSQLHOST = "127.0.0.1"
-	//MYSQLDB   = "test"
+	MYSQLUSER = "siksin"
+	MYSQLPASS = "siksin1234!"
+	MYSQLHOST = "127.0.0.1"
+	MYSQLDB   = "twin"
 
 	// prod
-	MYSQLUSER = "twinkorea_prod"
-	MYSQLPASS = "Twin202!Korea"
-	MYSQLHOST = "twinkorea-prod.czvkrw2zkctv.ap-northeast-2.rds.amazonaws.com"
-	MYSQLDB   = "twinkorea_prod"
+	// MYSQLUSER = "twinkorea_prod"
+	// MYSQLPASS = "Twin202!Korea"
+	// MYSQLHOST = "twinkorea-prod.czvkrw2zkctv.ap-northeast-2.rds.amazonaws.com"
+	// MYSQLDB   = "twinkorea_prod"
 )
